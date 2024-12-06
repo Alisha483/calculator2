@@ -11,6 +11,20 @@ body {
     height: 100vh;
     background:linear-gradient(-45deg,#ff8fab,#fb6f92,#540d6e 70%);
 }
+.created p{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 1.25rem;
+  margin-top: 39px;
+}
+.created span{
+    color: #9f00ff;
+}
+h1{
+    margin-bottom: 20px;
+}
 
 .calculator {
     background-color: transparent;
